@@ -1,0 +1,11 @@
+hostname,ip,os,ram_gb,department,active
+web-srv-01,192.168.1.10,Ubuntu 22.04,16,IT,True
+db-srv-01,192.168.1.11,Windows Server 2019,8,Finance,True
+app-srv-01,192.168.1.12,Debian 11,32,R&D,True
+old-srv-01,192.168.1.13,CentOS 8,2,HR,False
+backup-01,192.168.1.14,Windows Server 2022,64,IT,True
+dev-srv-01,192.168.1.15,Ubuntu 22.04,8,R&D,True
+fin-srv-01,192.168.1.16,Windows Server 2019,4,Finance,True
+ops-srv-01,192.168.1.17,Debian 11,16,Operations,True
+sec-srv-01,192.168.1.18,Ubuntu 22.04,8,Security,True
+legacy-01,192.168.1.19,CentOS 8,2,Operations,False

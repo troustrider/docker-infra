@@ -1,0 +1,5 @@
+.env
+certs/*.crt
+certs/*.key
+privkey.pem
+docs/defensas-fase8.md
